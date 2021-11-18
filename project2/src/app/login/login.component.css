@@ -5,7 +5,7 @@ border-color: black;
 background-color: yellow;
  width: 500px;
 height: 300px;
-transform: translate(800px, -650px);}
+}
 
 .L_P{font-size: 30px; color: black; text-align: center;}
 
@@ -17,6 +17,6 @@ transform: translate(800px, -650px);}
   background-color:pink;
   color: blue;  
   font-size: 16px;
-  padding: 1px 50px;
+  padding: 1px 20px;
 
 }
