@@ -1,0 +1,7 @@
+.h_border {border-style: solid; 
+	border-width: 5px; 
+	border-color: red;
+	background-color: black;
+transform: translate(100px, -290px);}
+
+.h_p {text-align: center; font-size: 40px; color: white;}
