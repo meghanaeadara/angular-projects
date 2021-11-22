@@ -1,11 +1,15 @@
 .A {
 font-size: 20px; 
 color:black;
-text-align: center;
-text-orientation: upright;
-writing-mode: vertical-rl;
-}
 
+display: flex;
+
+}
+.b{
+    width: 100px;
+    writing-mode: vertical-rl; 
+    padding-top: 150px;
+}
 
 
 
