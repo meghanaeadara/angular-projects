@@ -1,0 +1,10 @@
+.A {
+font-size:2opx;
+background:black;
+dislay:flex;
+}
+.b {
+	width:80px;
+	writing-mode: vertical-rl;
+	padding-top: 150px;
+}
